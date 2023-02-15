@@ -6,7 +6,7 @@
 
 ## International Mobility Web App
 <p align="center">
-  <img  width="600" height="400" src="https://i.ibb.co/yS74H7n/325488250-556802099802477-4079433416039107224-n.jpg" alt="325488250-556802099802477-4079433416039107224-n" border="0">
+  <img  width="400" height="400" src="https://i.ibb.co/yS74H7n/325488250-556802099802477-4079433416039107224-n.jpg" alt="325488250-556802099802477-4079433416039107224-n" border="0">
  <br>
 
 This is a web application for managing international mobility programs for students and faculty. The application is built using Spring and Angular, making it highly scalable and responsive.
