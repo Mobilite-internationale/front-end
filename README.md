@@ -3,6 +3,8 @@
         Hi there 👋 , We are 404Debuggers 
 </p> 
  
+![Version](https://img.shields.io/badge/version-2.0-blue.svg?cacheSeconds=2592000)
+[![License: ESPRIT](https://img.shields.io/badge/License-ESPRIT-yellow.svg)](#)
 
 ## International Mobility Web App
 <p align="center">
