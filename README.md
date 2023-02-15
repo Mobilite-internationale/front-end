@@ -5,7 +5,10 @@
  
 
 ## International Mobility Web App
-![My Remote Image](https://www.dropbox.com/s/u50ovbao5ikfwm5/325488250_556802099802477_4079433416039107224_n.jpg?dl=0) <br>
+<p align="center">
+  <img width="600" height="400" src="[https://i.ibb.co/dpwV5Cq/p1.png](https://www.dropbox.com/s/u50ovbao5ikfwm5/325488250_556802099802477_4079433416039107224_n.jpg?dl=0)">
+ </p>
+ <br>
 
 This is a web application for managing international mobility programs for students and faculty. The application is built using Spring and Angular, making it highly scalable and responsive.
 
