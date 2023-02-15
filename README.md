@@ -6,7 +6,7 @@
 
 ## International Mobility Web App
 <p align="center">
-  <img width="600" height="400" src="[https://i.ibb.co/dpwV5Cq/p1.png](https://www.dropbox.com/s/u50ovbao5ikfwm5/325488250_556802099802477_4079433416039107224_n.jpg?dl=0)">
+  <img width="600" height="400" src="https://i.ibb.co/dpwV5Cq/p1.png](https://www.dropbox.com/s/u50ovbao5ikfwm5/325488250_556802099802477_4079433416039107224_n.jpg?dl=0">
  </p>
  <br>
 
