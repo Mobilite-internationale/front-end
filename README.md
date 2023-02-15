@@ -1,4 +1,4 @@
 # front-end
- ** <p align = "center" >
+  <p style="text-align:center; font-weight : bold ;" >
         Hi there 👋 , We are 404Debuggers 
-</p> **
+</p> 
